@@ -20,5 +20,6 @@
   "homepage": "https://github.com/Jackdev934/server-helloworld#readme",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {}
 }
